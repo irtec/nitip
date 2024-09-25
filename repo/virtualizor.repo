@@ -1,0 +1,5 @@
+[Softaculous]
+name=Virtualizor Repo
+baseurl=http://mirror.softaculous.com/virtualizor/$releasever/$basearch
+gpgcheck=0
+enabled=1
